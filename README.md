@@ -155,6 +155,7 @@ No known bugs at this time.
 
 ## Authors
 Moses Oyet - [Github](https://github.com/Mosesoyet)
+
 Faith Milly - [Github](https://github.com/Faithmilly2021)
 
 Second part of Airbnb: Joann Vuong
